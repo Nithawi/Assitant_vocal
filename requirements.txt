@@ -1,0 +1,9 @@
+edge-tts
+sounddevice
+vosk
+psutil
+playsound3
+imageio-ffmpeg
+comtypes
+pycaw
+requests
